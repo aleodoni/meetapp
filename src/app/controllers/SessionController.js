@@ -1,6 +1,6 @@
 import jwt from 'jsonwebtoken';
-import SessionValidator from '../validators/SessionValidator';
 
+import SessionValidator from '../validators/SessionValidator';
 import User from '../models/User';
 import authConfig from '../../config/auth';
 
